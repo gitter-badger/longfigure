@@ -1,4 +1,5 @@
                ----------------------------------------------------------------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tiarno/longfigure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
                longfigure --- A LaTeX package providing a table-like environment
                               that can display a stream of subfigures as a single
                               figure that can be broken by \TeX's
